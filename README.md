@@ -1,1 +1,1 @@
-This project exposes students to technical interview questions
+THis project are all about alx-interview prep.
